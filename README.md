@@ -1,2 +1,65 @@
-# audit-malaika-collection
-Audit du site Internet audit-malaika-collection
+![image](https://github.com/user-attachments/assets/5d3939f5-1ea4-49af-b1cb-3c312952790f)# Audit Malaika Collection
+
+Audit du site Internet : Malaika Collection
+
+## Performance Technique
+
+### Vitesse et Performance
+Le site présente des problèmes de performance qui nécessitent une optimisation. Les Core Web Vitals doivent être améliorés pour répondre aux exigences de Google1
+
+#### Structure Technique
+
+- Absence d'un fichier sitemap.xml
+- Le fichier robots.txt nécessite une optimisation
+- Certaines pages présentent des erreurs 404
+- La structure des URLs pourrait être optimisée pour une meilleure hiérarchisation
+
+### Analyse SEO
+
+#### Optimisation On-Page
+
+- Les balises title et meta descriptions ne sont pas optimisées sur plusieurs pages
+- Manque de structure hiérarchique claire dans les balises H1-H6
+- Certaines images n'ont pas d'attributs ALT descriptifs2
+
+#### Contenu
+
+- Le contenu textuel est insuffisant sur certaines pages produits
+- Absence de contenu éditorial enrichi (blog, guides d'achat)
+- Manque de mots-clés ciblés dans les contenus existants
+
+## Expérience Utilisateur
+
+### Navigation et Ergonomie
+
+- L'interface mobile nécessite des améliorations pour une meilleure expérience
+- Le menu principal pourrait être plus intuitif
+- Les filtres de recherche produits manquent de précision2
+
+## Conformité et Sécurité
+### Aspects Légaux
+
+- Les mentions légales doivent être mises à jour
+- La politique RGPD nécessite une révision
+- Le certificat SSL est présent mais certaines ressources sont chargées en HTTP
+
+### Recommandations Prioritaires
+
+#### Optimiser les performances techniques :
+
+- Compression des images
+- Mise en cache
+- Minification des ressources CSS/JS
+
+#### Améliorer la structure SEO :
+
+- Création d'un sitemap.xml
+- Optimisation du robots.txt
+- Correction des erreurs 404
+
+#### Enrichir le contenu :
+
+- Création d'un blog
+- Optimisation des descriptions produits
+- Ajout de contenus éditoriaux qualitatifs
+

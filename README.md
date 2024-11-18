@@ -1,6 +1,6 @@
-# Audit : Malaika Collection
+# Audit : Malaïka Collection
 
-Audit du site Internet : [Malaika Collection](https://malaika-collection.com/)
+Audit du site Internet : [Malaïka Collection](https://malaika-collection.com/)
 
 ## Performance Technique
 

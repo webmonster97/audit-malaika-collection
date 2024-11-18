@@ -6,7 +6,7 @@ Audit du site Internet : Malaika Collection
 
 ### Vitesse et Performance
 
-Le site présente des problèmes de performance qui nécessitent une optimisation. Les Core Web Vitals doivent être améliorés pour répondre aux exigences de Google1
+Le site présente des problèmes de performance qui nécessitent une optimisation. Les Core Web Vitals doivent être améliorés pour répondre aux exigences de Google.
 
 #### Structure Technique
 
@@ -21,13 +21,15 @@ Le site présente des problèmes de performance qui nécessitent une optimisatio
 
 - Les balises title et meta descriptions ne sont pas optimisées sur plusieurs pages
 - Manque de structure hiérarchique claire dans les balises H1-H6
-- Certaines images n'ont pas d'attributs ALT descriptifs2
+- Certaines images n'ont pas d'attributs ALT descriptifs
 
 #### Contenu
 
 - Le contenu textuel est insuffisant sur certaines pages produits
 - Absence de contenu éditorial enrichi (blog, guides d'achat)
 - Manque de mots-clés ciblés dans les contenus existants
+- Améliorer la visibilité des modalités de location
+- Améliorer le formulaire de location
 
 ## Expérience Utilisateur
 
@@ -35,7 +37,7 @@ Le site présente des problèmes de performance qui nécessitent une optimisatio
 
 - L'interface mobile nécessite des améliorations pour une meilleure expérience
 - Le menu principal pourrait être plus intuitif
-- Les filtres de recherche produits manquent de précision2
+- Les filtres de recherche produits manquent de précision
 
 ## Conformité et Sécurité
 
@@ -64,4 +66,6 @@ Le site présente des problèmes de performance qui nécessitent une optimisatio
 - Création d'un blog
 - Optimisation des descriptions produits
 - Ajout de contenus éditoriaux qualitatifs
+- Rajouter des photos du sac avec un modele
+- Rajouter les modalités d'entretien en cas d'incident
 
